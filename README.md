@@ -2,7 +2,6 @@
 
 Depositório criado para o desafio de projetos.
 
-## Links úteis
-Neste repositório. Aqui coloco os certificados que estou conquistanto no decorrer do Bootcamp Impulso Javascript Evolution.
+Aqui coloco os certificados que estou conquistanto no decorrer do Bootcamp Impulso Javascript Evolution.
 
 
